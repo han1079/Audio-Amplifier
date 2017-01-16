@@ -1,0 +1,61 @@
+Circuit: * C:\Users\Han Zhang\Documents\Project Files\Project 1 - Audio Amplifier\Experimental Amplifier\Engineering Docs\Add Current Mirror.asc
+
+WARNING: Less than two connections to node N014.  This node is used by V5.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+N-Period=4
+Fourier components of V(v_out)
+DC component:0.0603769
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	2.000e+04	1.996e+01	1.000e+00	   -2.43°	    0.00°
+    2   	4.000e+04	1.085e-03	5.436e-05	   10.05°	   12.48°
+    3   	6.000e+04	9.225e-03	4.622e-04	  -80.87°	  -78.44°
+    4   	8.000e+04	4.372e-04	2.191e-05	   65.38°	   67.81°
+    5   	1.000e+05	7.925e-03	3.971e-04	 -107.51°	 -105.08°
+    6   	1.200e+05	9.563e-04	4.792e-05	  -18.98°	  -16.55°
+    7   	1.400e+05	7.467e-03	3.741e-04	 -139.70°	 -137.27°
+    8   	1.600e+05	5.604e-04	2.808e-05	   -6.42°	   -3.99°
+    9   	1.800e+05	6.085e-03	3.049e-04	 -137.49°	 -135.06°
+   10   	2.000e+05	1.058e-03	5.303e-05	 -126.46°	 -124.02°
+Total Harmonic Distortion: 0.078329%(0.107811%)
+
+
+
+Date: Fri May 27 21:56:38 2016
+Total elapsed time: 0.222 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6089
+traniter = 5511
+tranpoints = 2329
+accept = 1867
+rejected = 462
+matrix size = 65
+fillins = 64
+solver = Normal
+Matrix Compiler1: 8.50 KB object code size  1.6/1.2/[0.8]
+Matrix Compiler2: 7.33 KB object code size  0.9/1.0/[0.5]
+
+

@@ -1,0 +1,41 @@
+Circuit: * C:\Users\Han Zhang\Documents\Project Files\Project 1 - Audio Amplifier\Experimental Amplifier\Engineering Docs\Exploration of Differential Emitter Degeneration.asc
+
+Direct Newton iteration for .op point succeeded.
+N-Period=4
+Fourier components of V(v_out)
+DC component:-8.22444
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	2.000e+04	1.890e+01	1.000e+00	  -15.57°	    0.00°
+    2   	4.000e+04	6.293e-02	3.330e-03	 -171.53°	 -155.96°
+    3   	6.000e+04	1.342e-02	7.103e-04	 -121.44°	 -105.86°
+    4   	8.000e+04	3.605e-02	1.908e-03	   55.18°	   70.76°
+    5   	1.000e+05	1.628e-02	8.614e-04	  -42.78°	  -27.21°
+    6   	1.200e+05	9.052e-03	4.791e-04	   33.99°	   49.56°
+    7   	1.400e+05	2.033e-02	1.076e-03	  -85.75°	  -70.18°
+    8   	1.600e+05	7.751e-03	4.102e-04	  162.51°	  178.08°
+    9   	1.800e+05	9.151e-03	4.843e-04	 -115.70°	 -100.13°
+   10   	2.000e+05	1.291e-02	6.830e-04	  132.94°	  148.51°
+Total Harmonic Distortion: 0.427008%(0.438812%)
+
+
+
+Date: Fri May 27 21:53:38 2016
+Total elapsed time: 0.254 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4724
+traniter = 4709
+tranpoints = 1909
+accept = 1586
+rejected = 323
+matrix size = 51
+fillins = 32
+solver = Normal
+Matrix Compiler1: 6.08 KB object code size  1.5/0.6/[0.3]
+Matrix Compiler2: 5.42 KB object code size  0.5/0.7/[0.4]
+
+

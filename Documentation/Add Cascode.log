@@ -1,0 +1,65 @@
+Circuit: * C:\Users\Han Zhang\Documents\Project Files\Project 1 - Audio Amplifier\Experimental Amplifier\Engineering Docs\Add Cascode.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.666667
+Gmin = 5.73799e-006
+vernier = 0.888888
+vernier = 1
+Gmin = 8.09366e-007
+Gmin = 8.6905e-008
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+Gmin = 1.15517e-011
+Gmin = 1.24035e-012
+Gmin = 1.33182e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+N-Period=4
+Fourier components of V(v_out)
+DC component:0.0632387
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	2.000e+04	1.996e+01	1.000e+00	   -2.43°	    0.00°
+    2   	4.000e+04	1.139e-03	5.709e-05	   19.93°	   22.36°
+    3   	6.000e+04	9.626e-03	4.823e-04	  -80.48°	  -78.06°
+    4   	8.000e+04	5.346e-05	2.678e-06	  -66.21°	  -63.78°
+    5   	1.000e+05	8.452e-03	4.235e-04	 -105.18°	 -102.76°
+    6   	1.200e+05	1.395e-03	6.990e-05	  -61.71°	  -59.29°
+    7   	1.400e+05	7.851e-03	3.933e-04	 -139.17°	 -136.74°
+    8   	1.600e+05	3.559e-04	1.783e-05	    9.22°	   11.65°
+    9   	1.800e+05	5.942e-03	2.977e-04	 -136.83°	 -134.41°
+   10   	2.000e+05	5.739e-04	2.875e-05	 -158.19°	 -155.76°
+Total Harmonic Distortion: 0.081518%(0.110285%)
+
+
+
+Date: Fri May 27 21:58:35 2016
+Total elapsed time: 0.251 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6955
+traniter = 6262
+tranpoints = 2693
+accept = 2104
+rejected = 589
+matrix size = 68
+fillins = 72
+solver = Normal
+Matrix Compiler1: 8.92 KB object code size  1.9/1.1/[0.5]
+Matrix Compiler2: off  [0.9]/2.5/1.6
+
+
